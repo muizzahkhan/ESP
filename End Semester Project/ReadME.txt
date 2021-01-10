@@ -1,7 +1,6 @@
-# ESP
-######################################
+#################################################################################
 
-#Progress based test
+# Progress based test
 
 # This program is a progress based test developed using C++ and QT declarative UI language for graphics.
 
@@ -12,7 +11,7 @@
 # Do not delete, rename or move any of the included files otherwise the application will not work efficiently.  
 
 # Members:
-	#Hiba Nasir
-	#Muizzah Khan
+	Hiba Nasir
+	Muizzah Khan
 
-######################################
+################################################################################
