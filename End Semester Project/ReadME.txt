@@ -6,7 +6,9 @@
 
 # The source code is available in the project report.
 
-# All the .cpp, .h and .ui files are available in the folder called "Progress Based Test". 
+# All the .cpp, .h and .ui files for the graphical version are available in the folder called "graphics version". 
+
+# Console version of the code is available in the folder called "Console version".
 
 # Do not delete, rename or move any of the included files otherwise the application will not work efficiently.  
 
