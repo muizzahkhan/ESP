@@ -10,6 +10,8 @@
 
 # Console version of the code is available in the folder called "Console version".
 
+# END SEMESTER PROJECT.pptx contains videos and slides to explain the code.
+
 # Do not delete, rename or move any of the included files otherwise the application will not work efficiently.  
 
 # Members:
